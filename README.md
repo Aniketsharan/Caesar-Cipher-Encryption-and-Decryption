@@ -10,3 +10,15 @@ The program takes the following steps:
 3. Decryption Function: The Decrypt function performs the opposite process by shifting the ASCII value to the left by the given number of shifts. If the shift preceeds 'A' or 'a', the alphabet cycles back to 'Z' or 'z'.
 
 4. Output: The program displays the encoded or decoded message based on the user's choice.
+# Usage
+1. Compile the C++ program.
+
+2. Run the compiled executable.
+
+3. Choose between encryption ('encode') or decryption ('decode').
+
+4. Enter the message you want to process.
+
+5. Provide the number of shifts.
+
+6. The program will display the encoded or decoded message accordingly.
